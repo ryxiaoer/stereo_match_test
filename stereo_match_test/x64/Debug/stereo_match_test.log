@@ -1,0 +1,30 @@
+﻿  stdafx.cpp
+  CommonAlgorithms.cpp
+e:\牙\stereo_match_test\stereo_match_test\commonalgorithms.cpp(83): warning C4244: “=”: 从“float”转换到“uchar”，可能丢失数据
+e:\牙\stereo_match_test\stereo_match_test\commonalgorithms.cpp(99): warning C4244: “初始化”: 从“_Tp”转换到“float”，可能丢失数据
+          with
+          [
+              _Tp=double
+          ]
+e:\牙\stereo_match_test\stereo_match_test\commonalgorithms.cpp(100): warning C4244: “初始化”: 从“_Tp”转换到“float”，可能丢失数据
+          with
+          [
+              _Tp=double
+          ]
+e:\牙\stereo_match_test\stereo_match_test\commonalgorithms.cpp(101): warning C4244: “初始化”: 从“_Tp”转换到“float”，可能丢失数据
+          with
+          [
+              _Tp=double
+          ]
+e:\牙\stereo_match_test\stereo_match_test\commonalgorithms.cpp(102): warning C4244: “初始化”: 从“_Tp”转换到“float”，可能丢失数据
+          with
+          [
+              _Tp=double
+          ]
+e:\牙\stereo_match_test\stereo_match_test\commonalgorithms.cpp(109): warning C4305: “初始化”: 从“double”到“float”截断
+  SGBM.cpp
+  stereo_match_test.cpp
+e:\牙\stereo_match_test\stereo_match_test\stereo_match_test.cpp(43): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\牙\stereo_match_test\stereo_match_test\stereo_match_test.cpp(44): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+  stereo_match_test.vcxproj -> E:\牙\stereo_match_test\x64\Debug\stereo_match_test.exe

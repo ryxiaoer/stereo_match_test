@@ -1,0 +1,3 @@
+﻿  stdafx.cpp
+  stereo_match_test.cpp
+opencv_world341d.lib(opencv_world341d.dll) : fatal error LNK1112: 模块计算机类型“x64”与目标计算机类型“x86”冲突
